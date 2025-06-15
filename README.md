@@ -1,6 +1,7 @@
 # Python-WebScraping-Projects
 
 A collection of Python-based web scraping projects that demonstrate data extraction from various online sources such as stock market data and weather information. Each project showcases the use of libraries like `yfinance`, `pandas`, `matplotlib`, `requests`, and `BeautifulSoup4`.
+Note: Web scraping relies on extracting data from HTML elements. It’s important to understand these key components:
 
 ---
 
